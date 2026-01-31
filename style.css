@@ -107,7 +107,7 @@
 
 .hero {
     height: 75vh;
-    background: url("file:///C:/Users/vorte/Downloads/Combat%20%C3%A9pique%20entre%20jiu-jitsu%20et%20cr%C3%A9ature.png") center / cover no-repeat;
+    background: url("file:///C:/Users/vorte/Desktop/index.html/Combat%20épique%20entre%20jiu-jitsu%20et%20créature.png") center / cover no-repeat;
     position: relative;
     margin-top: 80px; /* IMPORTANT à cause du header fixe */
 }
@@ -285,15 +285,14 @@ footer {
     padding: 50px 20px;
     margin-top: 60px;
 }
-/* HERO CONTACT */
 .hero-contact {
-    background: url("https://images.unsplash.com/photo-1616419399950-c00b4fca8b15?fit=crop&w=1600&q=80") center/cover no-repeat;
-    height: 100vh;
+    background: url("file:///C:/Users/vorte/Desktop/index.html2/Combat%20épique%20entre%20jiu-jitsu%20et%20créature.png");
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
 
 .hero-contact::before {
     content: "";
@@ -524,7 +523,7 @@ body {
 
 .hero {
     height: 75vh;
-    background: url("file:///C:/Users/vorte/Downloads/Combat%20%C3%A9pique%20entre%20jiu-jitsu%20et%20cr%C3%A9ature.png") center / cover no-repeat;
+    background: url("file:///C:/Users/vorte/Desktop/index.html2/Combat%20épique%20entre%20jiu-jitsu%20et%20créature.png") center / cover no-repeat;
     position: relative;
     margin-top: 80px; /* IMPORTANT à cause du header fixe */
 }
