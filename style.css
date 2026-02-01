@@ -107,7 +107,7 @@
 
 .hero {
     height: 75vh;
-       background: url("https://chatgpt.com/backend-api/estuary/content?id=file_000000002e9c722f942850ac71327580&ts=491640&p=fs&cid=1&sig=ac77ba35bdd5fa4d4266f8b4875d47d54d6a12e41765e4154e884e30c4e8b8dc&v=0") center / cover no-repeat;
+       background: url("images/91f1626e.png") center / cover no-repeat;
     margin-top: 80px; /* IMPORTANT à cause du header fixe */
 }
 
@@ -522,7 +522,7 @@ body {
 
 .hero {
     height: 75vh;
-    background: url("file:///C:/Users/vorte/Desktop/index.html2/Combat%20épique%20entre%20jiu-jitsu%20et%20créature.png") center / cover no-repeat;
+    background: url("images/91f1626e.png") center / cover no-repeat;
     position: relative;
     margin-top: 80px; /* IMPORTANT à cause du header fixe */
 }
